@@ -28,8 +28,8 @@
 
 ## 💼경력 & 경험💼
 +  ### 2022. 01. ~ ing 삼성메디슨 현장실습
-+  #### 2021. 12. 한림대학교 SW중심사업단 주관 캡스톤디자인 경연대회 금상 수상
-+  #### 2021. 11. 한림대학교 SW중심사업단 주관 2021 SW Coding Festival 참여
++  ### 2021. 12. 한림대학교 SW중심사업단 주관 캡스톤디자인 경연대회 금상 수상
++  ### 2021. 11. 한림대학교 SW중심사업단 주관 2021 SW Coding Festival 참여
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 주요 수강 현황
+## 📚주요 수강 현황📚
 |학기|구분|과목|학점|  
 |---|---|---|---|  
 |2021-2|공통전선|빅데이터캡스톤디자인|3|
@@ -70,7 +70,7 @@
 
 ---
 
-## Git Status
+## ✨Git Status✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyun&show_icons=true&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inseonyun&theme=nord_bright&utcOffset=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&layout=compact&theme=default)
