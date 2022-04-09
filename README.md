@@ -7,6 +7,7 @@
   <a href="mailto:yis092521@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yis092521@gmail.com"/></a>
 </p>
 
+---
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,There~👋%20Welcome%20My%20GitHub🚀&fontSize=40&fontAlignY=40&animation=fadeIn&desc=I'm%20Inseon%20Yun&descAlignY=70)
 
@@ -18,27 +19,27 @@
 ---
 
 ## 💼경력 & 경험💼
-+  #### 2022. 01. ~ ing 삼성메디슨 현장실습
++  ### 2022. 01. ~ ing 삼성메디슨 현장실습
 +  #### 2021. 12. 한림대학교 SW중심사업단 주관 캡스톤디자인 경연대회 금상 수상
 +  #### 2021. 11. 한림대학교 SW중심사업단 주관 2021 SW Coding Festival 참여
 ---
 
 ## 📁선호 언어📁
-+  #### C# ( . NET )
-+  #### C++
-+  #### JAVA (Android)
++  ### C# ( . NET )
++  ### C++
++  ### JAVA (Android)
 ---
 
 ## 📁관심사📁
-+  #### Window Programming
-+  #### Mobile (Android) Programming
-+  #### Kotlin
++  ### Window Programming
++  ### Mobile (Android) Programming
++  ### Kotlin
 ---
 
 ## 📜취득 자격증📜
-+  #### MOS Master
-+  #### 워드프로세서
-+  #### 컴퓨터활용능력 1급
++  ### MOS Master
++  ### 워드프로세서
++  ### 컴퓨터활용능력 1급
 ---
 
 ## 주요 수강 현황
