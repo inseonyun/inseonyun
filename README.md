@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,There~👋%20Welcome%20My%20GitHub🚀&fontSize=40&fontAlignY=40&animation=fadeIn&desc=I'm%20Inseon%20Yun&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,There~👋%20Welcome%20My%20GitHub🚀&fontSize=40&fontAlignY=40&animation=fadeIn&desc=I'm%20Inseon%20Yun&descAlignY=60)
 
 <!-- 벳지 -->
 <p align="left">
