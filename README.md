@@ -43,7 +43,7 @@
 ## 📁관심사📁
 + ### Window Programming
 + ### Mobile (Android) Programming
-  > + ### JAVA / Kotlin
+  + ### JAVA / Kotlin
 
 ---
 
