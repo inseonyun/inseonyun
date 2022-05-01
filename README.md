@@ -34,9 +34,9 @@
 ---
 
 ## 📁선호 언어📁
-+ ### C# ( . NET )
-+ ### C++
-+ ### JAVA (Android)
++  #### C# ( . NET ) &nbsp; &nbsp; &nbsp; &nbsp; ★ ★ ★ ★ ☆
++  #### C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ★ ★ ★ ☆ ☆
++  #### JAVA (Android) &nbsp; ★ ★ ★ ★ ☆
 
 ---
 
