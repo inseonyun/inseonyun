@@ -76,7 +76,7 @@
 ## ✨Git Status✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyun&count_private=true&show_icons=true&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inseonyun&count_private=true&theme=nord_bright&utcOffset=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6)
 
 
 
