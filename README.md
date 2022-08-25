@@ -1,5 +1,8 @@
+<div align=center>
+
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,There~👋%20Welcome%20My%20GitHub🚀&fontSize=40&fontAlignY=40&animation=fadeIn&desc=I'm%20Inseon%20Yun&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Inseon%20Yun&fontSize=40&fontAlignY=40&animation=twinkling)
+</div>
 
 <!-- 벳지 -->
 <p align="left">
@@ -10,6 +13,83 @@
   <a href="mailto:yis092521@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yis092521@gmail.com"/></a>
 </p>
 
+### Hi, I'm inseon yun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
++ 📢 My Blog : [Sunny Blog](https://inseonyun.github.io/)
++ ✏ I'm currently studying Android Programming with Kotlin
+
+---
+
+### Developed App 
++ [Music Timer](https://github.com/inseonyun/music-timer)
++ [How much oil Price](https://github.com/inseonyun/how-much-oil-price)
++ [Library Service](https://github.com/inseonyun/library-service-app)
++ [AI Food Diary](https://github.com/inseonyun/AIFoodDiary)
+
+---
+
+<!-- Tech Stack -->
+<h3 align="center">💡Interested💡</h3>
+<div align=center>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.Net&logoColor=white"/>
+</div>
+
+---
+
+<h3 align="center">🛠Tech Stack🛠 </h3>
+<div align=center>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.Net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/My SQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
+</div>
+
+---
+
+<h3 align="center">✨Git Status✨</h3>
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyun&count_private=true&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6)
+
+</div>
+
+
+
+
+
+
+
+
+
+<!-- 헤더 -->
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,There~👋%20Welcome%20My%20GitHub🚀&fontSize=40&fontAlignY=40&animation=fadeIn&desc=I'm%20Inseon%20Yun&descAlignY=60)
+-->
+
+<!-- 벳지 -->
+<!--
+<p align="left">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finseonyun&count_bg=%2354A1E7&title_bg=%23868686&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false"/></a>
+  <br>
+  <a href="https://inseonyun.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat--square&logo=github&link=https://inseonyun.github.io/"/></a>&nbsp
+  <a href="https://www.instagram.com/in._sunny/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in._sunny/"/></a>&nbsp
+  <a href="mailto:yis092521@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yis092521@gmail.com"/></a>
+</p>
+-->
+
+<!--
 ## ☀Inseon Yun☀
 + ### Email : yuninseon@hallym.ac.kr
 + ### 블로그 : https://inseonyun.github.io
@@ -49,14 +129,12 @@
 + ### Mobile (Android) Programming
   + ### JAVA / Kotlin
 
-<!--
 ---
 
 ## 📜취득 자격증📜
 + ### MOS Master
 + ### 워드프로세서
 + ### 컴퓨터활용능력 1급
--->
 
 ---
 
@@ -76,10 +154,7 @@
 
 ---
 
-## ✨Git Status✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyun&count_private=true&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6)
-
+-->
 
 
 
