@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.Net&logoColor=white"/>
 </div>
 
----
-
 <h3 align="center">🛠Tech Stack🛠 </h3>
 <div align=center>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
