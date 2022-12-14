@@ -20,9 +20,9 @@
 ---
 
 ### Developed App 
-+ [Smart Portfolio]()
++ [Smart Portfolio](https://github.com/inseonyun/smart-portfolio)
 + [Music Timer](https://github.com/inseonyun/music-timer)
-+ [How much oil Price](https://github.com/inseonyun/how-much-oil-price)
++ [How much oil Price - Private(Protect an API Key)](https://github.com/inseonyun/how-much-oil-price)
 + [Library Service](https://github.com/inseonyun/library-service-app)
 + [AI Food Diary](https://github.com/inseonyun/AIFoodDiary)
 
