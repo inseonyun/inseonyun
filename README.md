@@ -58,9 +58,16 @@
 
 <h3 align="center">✨Git Status✨</h3>
 <div align=center>
+  <a href="https://github.com/inseonyun">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inseonyun&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6"/>
+  </a>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inseonyun&count_private=true&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6)
+-->
 
 </div>
 
