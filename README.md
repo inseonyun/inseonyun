@@ -17,6 +17,7 @@
 + 📢 My Blog : [Sunny Blog](https://inseonyun.github.io/)
 + ✏ I'm currently studying Android Programming with Kotlin
 
+<!--
 ---
 
 ### Developed App 
@@ -28,7 +29,10 @@
 
 ---
 
+-->
+
 <!-- Tech Stack -->
+<!--
 <h3 align="center">💡Interested💡</h3>
 <div align=center>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -54,13 +58,15 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
 </div>
 
+-->
+
 ---
+
 
 <h3 align="center">✨Git Status✨</h3>
 <div align=center>
   <a href="https://github.com/inseonyun">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inseonyun&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6"/>
   </a>
 
