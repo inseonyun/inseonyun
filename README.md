@@ -67,7 +67,7 @@
 <div align=center>
   <a href="https://github.com/inseonyun">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inseonyun&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inseonyun&hide=jupyter%20notebook,java&layout=compact&theme=default&langs_count=6&count_private=true"/>
   </a>
 
 <!--
