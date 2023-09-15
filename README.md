@@ -1,9 +1,7 @@
 <div align=center>
 
 <!-- 헤더 -->
-<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Inseon%20Yun&fontSize=40&fontAlignY=40&animation=twinkling)
--->
 </div>
 <!-- 벳지 -->
 <p align="left">
