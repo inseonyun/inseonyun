@@ -1,9 +1,10 @@
 <div align=center>
 
 <!-- 헤더 -->
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Inseon%20Yun&fontSize=40&fontAlignY=40&animation=twinkling)
 </div>
-
+-->
 <!-- 벳지 -->
 <p align="left">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finseonyun&count_bg=%2354A1E7&title_bg=%23868686&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false"/></a>
