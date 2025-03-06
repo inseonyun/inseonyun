@@ -1,7 +1,7 @@
 <div align=center>
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Inseon%20Yun&fontSize=40&fontAlignY=40&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Inseon%20Yun&fontSize=40&fontAlignY=40&animation=twinkling) -->
 </div>
 <!-- 벳지 -->
 <p align="left">
@@ -13,7 +13,7 @@
 
 ### Hi, I'm inseon yun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 + 📢 My Blog : [Sunny Blog](https://inseonyun.github.io/)
-+ ✏ I'm currently studying Android Programming with Kotlin
++ 💼 I'm currently working on Renault Technical Korea in charge of Android SW Engineer :)
 
 <!--
 ---
