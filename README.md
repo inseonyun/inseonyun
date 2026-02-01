@@ -5,7 +5,7 @@
 </div>
 <!-- 벳지 -->
 <p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finseonyun&count_bg=%2354A1E7&title_bg=%23868686&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false"/></a>
+  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finseonyun&count_bg=%2354A1E7&title_bg=%23868686&icon=github.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false"/></a> -->
   <br>
   <a href="https://inseonyun.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat--square&logo=github&link=https://inseonyun.github.io/"/></a>&nbsp
   <a href="mailto:yis092521@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yis092521@gmail.com"/></a>
@@ -13,7 +13,6 @@
 
 ### Hi, I'm inseon yun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 + 📢 My Blog : [Sunny Blog](https://inseonyun.github.io/)
-+ 💼 I'm currently working on Renault Technical Korea in charge of Android SW Engineer :)
 
 <!--
 ---
